@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\window.o
+./release\user.o
+./release\connection.o
+./release\task_manager.o
+./release\contact.o
+./release\qrc_res.o
+./release\moc_window.o
+./release\moc_connection.o
+./release\moc_task_manager.o
+);

@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/big_emoticons">
+        <file>Resources/big_emoticons/angry.png</file>
+        <file>Resources/big_emoticons/happy.png</file>
+        <file>Resources/big_emoticons/laugh.png</file>
+        <file>Resources/big_emoticons/shy.png</file>
+        <file>Resources/big_emoticons/smile.png</file>
+        <file>Resources/big_emoticons/wink.png</file>
+    </qresource>
+    <qresource prefix="/small_emoticons">
+        <file>Resources/small_emoticons/angry.png</file>
+        <file>Resources/small_emoticons/happy.png</file>
+        <file>Resources/small_emoticons/laugh.png</file>
+        <file>Resources/small_emoticons/shy.png</file>
+        <file>Resources/small_emoticons/smile.png</file>
+        <file>Resources/small_emoticons/wink.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Resources/chat.png</file>
+        <file>Resources/profile.png</file>
+        <file>Resources/search.png</file>
+        <file>Resources/send.png</file>
+        <file>Resources/send_disabled.png</file>
+        <file>Resources/smile.png</file>
+        <file>Resources/loading.gif</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>Resources/sounds/sound.wav</file>
+    </qresource>
+</RCC>

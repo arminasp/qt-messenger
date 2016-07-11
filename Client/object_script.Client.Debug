@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\window.o
+./debug\user.o
+./debug\connection.o
+./debug\task_manager.o
+./debug\contact.o
+./debug\qrc_res.o
+./debug\moc_window.o
+./debug\moc_connection.o
+./debug\moc_task_manager.o
+);
